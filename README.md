@@ -1,4 +1,6 @@
-##  align="center"> Hola Soy Alejandro Guerra
+<p align="center">
+## Hola Soy Alejandro Guerra
+</p>
 
 ![banner 3](https://github.com/user-attachments/assets/337bef3c-dc00-4501-8cf0-1eeb73ebfb60)
 

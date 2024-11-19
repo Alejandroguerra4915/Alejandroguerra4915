@@ -1,4 +1,4 @@
-# <p align="center">
+<p align="center">
 Hola Soy Alejandro Guerra
 </p>
 

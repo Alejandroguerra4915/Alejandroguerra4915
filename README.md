@@ -2,7 +2,8 @@
 Hola Soy Alejandro Guerra
 </p>
 
-![banner 3](https://github.com/user-attachments/assets/337bef3c-dc00-4501-8cf0-1eeb73ebfb60)
+![banner](https://github.com/user-attachments/assets/77ce5f91-839d-45ad-ac51-ec50b66d752d)
+
 
 
 <!--

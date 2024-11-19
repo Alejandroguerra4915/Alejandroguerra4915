@@ -1,6 +1,7 @@
-##  Hola Soy Alejandro Guerra
+##  align="center"> Hola Soy Alejandro Guerra
 
-![banner](https://github.com/user-attachments/assets/379c433b-112b-4aa6-b0ff-87b371358872)
+![banner 3](https://github.com/user-attachments/assets/337bef3c-dc00-4501-8cf0-1eeb73ebfb60)
+
 
 <!--
 **Alejandroguerra4915/Alejandroguerra4915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
